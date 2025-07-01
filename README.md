@@ -48,7 +48,6 @@
 
 ## 📈 GitHub Stats
 
-![ShinWonJin01's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinWonJin01&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinWonJin01&layout=compact&theme=tokyonight)
 
 ---
