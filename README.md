@@ -46,12 +46,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinWonJin01&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 - Email: dnjswls151@naver.com
