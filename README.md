@@ -8,7 +8,7 @@
 
 ## 🛠️ 기술 스택
 
-- **Language:** Java, Python, JavaScript, C/C++
+- **Language:** Java, JavaScript, C/C++
 - **Framework:** Spring Boot, JSP, FastAPI
 - **Frontend:** HTML/CSS, JavaScript, React
 - **Database:** MySQL, HeidiSQL
