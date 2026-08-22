@@ -1,56 +1,74 @@
 # 안녕하세요! 👋 신원진입니다.
 
-“기술로 내일을 바꾸는 개발자”를 꿈꾸는 신입 개발자입니다.  
-공공성과 실용성을 갖춘 웹 서비스를 설계하고 구현하는 데에 흥미를 느낍니다.  
-백엔드부터 프론트엔드까지 직접 구현해보며 전반적인 웹 개발 역량을 키우고 있습니다.
+Java와 Spring Boot를 중심으로 웹 서비스를 개발하고 있는 신입 개발자입니다.
+사용자의 요청이 서버와 데이터베이스를 거쳐 안정적으로 처리되는 과정에 관심이 많습니다.
+최근에는 Vue 3와 TypeScript를 활용해 프론트엔드부터 백엔드까지 직접 구현하며 웹 서비스 전반의 개발 경험을 쌓고 있습니다.
 
 ---
 
 ## 🛠️ 기술 스택
 
-- **Language:** Java, JavaScript, C/C++
-- **Framework:** Spring Boot, JSP, FastAPI
-- **Frontend:** HTML/CSS, JavaScript, React
-- **Database:** MySQL, HeidiSQL
-- **Tool/Platform:** Git, GitHub, Figma, Eclipse, VS Code, Notion, Arduino
+* **Backend:** Java, Spring Boot, Spring Data JPA, Spring Security, JSP/Servlet
+* **Frontend:** Vue 3, TypeScript, JavaScript, HTML/CSS
+* **Database:** MySQL
+* **Tools:** Git, GitHub, VS Code, Eclipse, Figma, Notion
 
 ---
 
 ## 🚀 주요 프로젝트
 
-### 🍽️ [Eatometer (Spring Boot)](https://github.com/ShinWonJin01/eatometer-spring-project)
-> 리뷰 신뢰도 분석 기반의 모바일 중심 맛집 추천 플랫폼
+### ✈️ 여행 기록 웹 서비스
 
-- Spring Boot 기반 MVC 설계
-- 리뷰 신뢰도 점수 계산 로직 구현
-- 관리자는 맛집 코스 생성 및 가게 등록 요청 승인 가능
-- 사용자 맞춤 맛집 추천 코스 제공
+> 사진의 시간·위치 정보를 기반으로 여행 기록을 타임라인과 지도 형태로 구성하고, 동행자를 초대해 함께 기록을 공유할 수 있는 웹 서비스
 
----
+**Tech Stack**
+Vue 3 · TypeScript · Spring Boot · Spring Data JPA · Spring Security · MySQL
 
-### 🍜 [Yummy Jeju (JSP 맛집 추천 웹 프로젝트)](https://github.com/ShinWonJin01/jsp-web-project)
-> 광고성 리뷰를 배제한 신뢰도 기반 맛집 추천 웹 플랫폼
-
-- JSP 기반 CRUD 기능 구현
-- 사용자 리뷰 신뢰도 분석 및 점수화
-- 관리자 기능으로 맛집 코스 구성
+* Vue 3와 Spring Boot 기반 SPA + REST API 구조 구현
+* JWT 기반 로그인 및 인증·인가 처리
+* 여행 생성 및 참여자 초대 기능 구현
+* 사진 업로드 및 EXIF 시간·위치 정보를 활용한 여행 타임라인 구성
+* 지도 기반 여행 장소 표시 및 사진 위치 수정 기능 구현
+* 장소명·주소 검색을 통한 사진 위치 검색 기능 구현
+* 사용자·여행·사진 데이터에 대한 권한 검증 및 파일 업로드 보안 처리
 
 ---
 
-### 🎲 [체크메이트 (온라인 보드게임 동아리 관리 프로그램)](https://github.com/ShinWonJin01/boardgame-java-project)
-> 동아리 회원들을 위한 회원 및 게임 관리 시스템
+### 🍽️ [EatoMeter](https://github.com/ShinWonJin01/eatometer-spring-project)
 
-- Java 기반 GUI 환경에서 회원 및 관리 기능 구현
-- HeidiSQL과 연동하여 데이터 관리
-- 관리자 전용 기능 및 사용자 인터페이스 설계
+> 리뷰 신뢰도 기반 맛집 추천 웹 플랫폼
+
+**Tech Stack**
+Java · Spring Boot · Spring Data JPA · MySQL · Thymeleaf · JavaScript
+
+* Spring Boot 기반 MVC 웹 애플리케이션 개발
+* 회원·가게·신고 데이터 저장 및 조회 기능 구현
+* 가게 등록 신청 및 승인/대기 상태 관리
+* 지역·음식 종류 등 조건별 맛집 검색 및 필터링
+* 신고 처리 및 사용자 계정 제재 기능 구현
+
+---
+
+### 🍜 [Yummy Jeju](https://github.com/ShinWonJin01/jsp-web-project)
+
+> 신뢰도 기반 제주 맛집 추천 웹 플랫폼
+
+**Tech Stack**
+Java · JSP/Servlet · JDBC · MySQL · JavaScript
+
+* JSP/Servlet 기반 웹 애플리케이션 구현
+* 회원가입·로그인·회원 정보 관리 기능 구현
+* 관리자 회원·가게·신고 관리 기능 구현
+* 게시판·문의 CRUD 및 답변 처리 기능 구현
+* JDBC 기반 데이터베이스 연동
 
 ---
 
 ## 📫 Contact
 
-- Email: dnjswls151@naver.com
+* **Email:** [dnjswls151@naver.com](mailto:dnjswls151@naver.com)
+* **GitHub:** [ShinWonJin01](https://github.com/ShinWonJin01)
 
 ---
 
-감사합니다!  
-꾸준히 성장하는 개발자가 되겠습니다. 🙇‍♂️
+꾸준히 학습하며 안정적인 서비스를 만드는 개발자로 성장하고 있습니다.
