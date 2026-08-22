@@ -21,6 +21,8 @@ Java와 Spring Boot를 중심으로 웹 서비스를 개발하고 있는 신입 
 
 > 사진의 시간·위치 정보를 기반으로 여행 기록을 타임라인과 지도 형태로 구성하고, 동행자를 초대해 함께 기록을 공유할 수 있는 웹 서비스
 
+🔗 **Repository:** [Frontend](https://github.com/ShinWonJin01/travel-diary-web) | [Backend](https://github.com/ShinWonJin01/travel-diary-backend)
+
 **Tech Stack**
 Vue 3 · TypeScript · Spring Boot · Spring Data JPA · Spring Security · MySQL
 
